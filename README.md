@@ -1,8 +1,8 @@
 <div align="center">
      
-# ![alt text]([https://github.com/ELTEGANI/Bookify-App/blob/master/app/screenshots/logo.png](https://github.com/Romanmolla/Child-Learning/blob/master/enlogo.png))   
+# ![alt text](https://github.com/Romanmolla/Child-Learning/blob/master/.gitignore)   
      
-# Bookify App
+# Child Learning App
         
 This app implements this awesome [library](https://github.com/prolificinteractive/material-calendarview)
 </div>
