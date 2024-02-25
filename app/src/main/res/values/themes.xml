@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/purple_500</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/enlogo</item>
+        <item name="postSplashScreenTheme">@style/Theme.ClildLearning</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ClildLearning" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ClildLearning" parent="Base.Theme.ClildLearning" />
+</resources>

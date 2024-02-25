@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155375437688",
+    "project_id": "clild-learning",
+    "storage_bucket": "clild-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155375437688:android:8f14c8840a87399a466a8d",
+        "android_client_info": {
+          "package_name": "com.roman.clildlearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYRqQ_9J0uovj9WnB5a91rCG246mp2CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
